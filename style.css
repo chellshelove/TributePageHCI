@@ -1,23 +1,39 @@
+.maya {
+    text-align: left;
+}
+
+.works {
+    text-align: left;
+}
+
+.achievements {
+    text-align: right;
+}
+
+.legacy {
+    text-align: right;
+}
+
 h1 {
     color:  rgb(255, 255, 255);
-    font-size: 64;
+    font-size: 64px;
     font-family: 'Times New Roman', Times, serif;
 }
 
 h2 {
     color:  rgb(255, 255, 255);
-    font-size: 45;
+    font-size: 45px;
     font-family: 'Times New Roman', Times, serif;
 }
 
 h3 {
     color:  rgb(255, 255, 255);
-    font-size: 24;
+    font-size: 24px;
     font-family: 'Times New Roman', Times, serif;
 }
 p {
     color: rgb(255, 255, 255);
-    font-size: 22;
+    font-size: 22px;
     font-family: 'Times New Roman', Times, serif;
 }
 
